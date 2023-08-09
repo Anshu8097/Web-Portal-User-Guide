@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Web Portal User Guide </title>
+    <topicref href="Getting%20Started/Getting_Started.ditamap" format="ditamap"
+        navtitle="Getting Started"/>
+    <topicref href="Background/Background.ditamap" format="ditamap" navtitle="Background"/>
+</map>

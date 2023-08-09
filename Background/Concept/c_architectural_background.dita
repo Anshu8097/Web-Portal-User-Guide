@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_architectural_background" xml:lang="en-US">
+    <title>Architectural Background</title>
+    <shortdesc/>
+    <conbody>
+        <p>Before we examine the capabilities of the solution, let’s review its architectural
+            background. As illustrated in Figure 1, the CentreStack File Sync and Share platform has
+            three primary components:</p>
+        <ul id="ul_vsz_tnc_kyb">
+            <li>The Storage Layer and the Internal IT infrastructure such as Active Directory and
+                File Server - to the right</li>
+            <li>The CentreStack Cluster (Server Farm) - at the center</li>
+            <li>The CentreStack access client agents - to the left</li>
+        </ul>
+        <image href="../../Graphics/1.png" id="image_uwp_h4c_kyb"/>
+    </conbody>
+</concept>

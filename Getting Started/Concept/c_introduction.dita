@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cp2_xjc_kyb">
+    <title><b>Introduction</b></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Welcome to the CentreStack Web Portal User Guide. This guide describes web portal
+            functionality for users as well as administrators in CentreStack.</p>
+        <p>CentreStack helps businesses mobilize their file servers by enhancing existing Windows
+            file servers with secure remote acccess, mobile file sharing, data protection and cloud
+            migration, while addressing business concerns about security, privacy, compliance and
+            control.</p>
+        <p>CentreStack adds ransomware protection and automatic alert mechanism to your file
+            servers. It continously monitors all the CentreStack clients for any unusual activity
+            and will automatically shut them down if it sees a possible attack.</p>
+        <p>CentreStack removes any need for businesses to rely on a VPN or a company computer to
+            securely access files. With CentreStack, data sprawl is eliminated as data stays on
+            local file servers and mobile productivity is balanced by centralized management and
+            access controls.</p>
+        <p>CentreStack natively integrates with Active Directory and maintains all the existing NTFS
+            permissions and there is no need to recreate any user identities. With military grade
+            encryption and secure connections, use existing users and permissions to save setup time
+            and money. files stay on local file servers and encrypted at the end point cache.</p>
+        <p>CentreStack includes the backend CentreStack server, which runs on Windows server
+            platform, and front end client applications for Microsoft Windows, Mac OSx, and mobile
+            clients for the Android and Apple iOS operating systems.</p>
+        <p>The Web portal is an important part of the solution for the following reasons:<ul
+                id="ul_cxj_klc_kyb">
+                <li>most of the management work is done on the web portal.</li>
+                <li>downloading other native client agent softwares starts from the web portal.</li>
+                <li>web browser file manager have rich and responsive feature to manage files,
+                    sharing and collaboration.</li>
+            </ul></p>
+        <note id="note_l2p_tkc_kyb">
+            <p>The web portal user guide is updated for version 11.9.9226.48971</p>
+        </note>
+    </conbody>
+</concept>
